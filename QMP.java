@@ -56,9 +56,9 @@ class PrendaDirector {
 
     }
  
-    public Vehiculo GetVehiculo()
+    public Vehiculo GetPrenda()
     {
-        return builder.GetVehiculo();
+        return builder.GetPrenda();
     }
 
 }
